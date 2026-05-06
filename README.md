@@ -1,3 +1,9 @@
+CHATROOM
+- Unsend, Edit, Reply Messages: Hover above the chatbox and the options will show
+- To react to a message, press the smiley emoji. A choice of emojis will show up and you can choose one emoji. Each user can omly react with one emoji. To remove your reaction, simply click on the emoji again. If more than two people react, only 1 emoji will be shown and the rest will be compiled. 
+- Chatbot: type @bot in front of your message and Gemini Bot will reply. Or Make a chatroom named 'bot room' where you can chat with Gemini Bot. No need to type @bot if you chat in the room. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
